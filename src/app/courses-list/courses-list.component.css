@@ -1,0 +1,25 @@
+.course-item {
+    background-color: blue;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+}
+
+h3 {
+
+    margin: 0 0 0.5rem 0;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 0.5rem 1 rem;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: aquamarine;
+}
